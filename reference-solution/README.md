@@ -1,4 +1,0 @@
-```
-cd Wundernut
-dotnet run
-```
